@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: 2.0.20
+  version: "2.1.0"
 
 package:
   name: mem0ai
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mem0ai/mem0ai-${{ version }}.tar.gz
-  sha256: 4366068a8cdeac170d15e7470340110e1daae70003166066529ea2a0a7f8b232
+  sha256: 55c430900a902834ef1b5c678f05bad2d678e19d6f9cfd4ae139db904f572de0
 
 build:
   number: 0
